@@ -1,5 +1,5 @@
 ---
-name: Exa Agent
+name: exa-agent
 description: "Use Exa Agent for multi-step web research, list-building, enrichment, structured output, run continuation, and coverage validation. Exa Agent can access additional data providers: fiber, financial_datasets, similarweb, baselayer, affiliate, particle, and jinko."
 ---
 
